@@ -68,35 +68,50 @@ La API gestiona los principales módulos del sistema:
 
 ## Screenshots
 
-![Pantalla de inicio](screenshots/a_home.png)
+<img src="screenshots/a_home.png" alt="Pantalla de inicio" width="250">
 
-![Pantalla de login](screenshots/a_login.png)
+<img src="screenshots/a_login.png" alt="Pantalla de login" width="250">
 
-![Registro](screenshots/a_registro.png)
+<img src="screenshots/a_registro.png" alt="Registro" width="250">
 
-![Dashboard](screenshots/a_dashboard.png)
+<img src="screenshots/a_dashboard.png" alt="Dashboard" width="250">
 
-![Dashboard 2](screenshots/a_dashboard2.png)
+<img src="screenshots/a_dashboard2.png" alt="Dashboard 2" width="250">
 
-![Productos](screenshots/a_productos.png)
+<img src="screenshots/a_productos.png" alt="Productos" width="250">
 
-![Perfil de vendedor](screenshots/a_vendedor_revision.png)
+<img src="screenshots/a_vendedor_revision.png" alt="Perfil de vendedor" width="250">
 
-![Configuración de vendedor](screenshots/a_config_vendedor.png)
+<img src="screenshots/a_config_vendedor.png" alt="Configuración de vendedor" width="250">
+
+ 
 
 ## Videos
+<table>
+<tbody>
+<tr>
 
-<video controls width="100%">
-  <source src="videos/intro.mov" type="video/quicktime">
-  Tu navegador no soporta la reproducción de videos.
-</video>
+<td><p align="center">
+ <img src="videos/intro.gif" alt="Intro" width="200">
+   
+</p></td>
 
-<video controls width="100%">
-  <source src="videos/editar%20anuncio.mov" type="video/quicktime">
-  Tu navegador no soporta la reproducción de videos.
-</video>
+<td><p align="center">
+ <img src="videos/editar-anuncio.gif" alt="Anuncios" width="200">
 
-<video controls width="100%">
-  <source src="videos/ver%20market.mov" type="video/quicktime">
-  Tu navegador no soporta la reproducción de videos.
-</video>
+  
+</p></td>
+
+<td><p align="center">
+ <img src="videos/ver-market.gif" alt="Market" width="200">
+ 
+</p>
+  </td>
+
+</tr>
+</tbody>
+</table>
+
+
+
+
