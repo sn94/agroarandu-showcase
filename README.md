@@ -68,21 +68,40 @@ La API gestiona los principales módulos del sistema:
 
 ## Screenshots
 
-<img src="screenshots/a_home.png" alt="Pantalla de inicio" width="250">
-
-<img src="screenshots/a_login.png" alt="Pantalla de login" width="250">
-
-<img src="screenshots/a_registro.png" alt="Registro" width="250">
-
+<table>
+<tbody>
+<tr>
+<td><img src="screenshots/a_home.png" alt="Pantalla de inicio" width="250">
+</td>
+<td><img src="screenshots/a_login.png" alt="Pantalla de login" width="250">
+</td>
+<td><img src="screenshots/a_registro.png" alt="Registro" width="250">
+</td>
+<td>
 <img src="screenshots/a_dashboard.png" alt="Dashboard" width="250">
+</td>
+</tr>
 
-<img src="screenshots/a_dashboard2.png" alt="Dashboard 2" width="250">
+<tr>
+<td> <img src="screenshots/a_dashboard2.png" alt="Dashboard 2" width="250">
+</td>
+<td><img src="screenshots/a_productos.png" alt="Productos" width="250">
+</td>
+<td><img src="screenshots/a_vendedor_revision.png" alt="Perfil de vendedor" width="250">
+</td>
+<td><img src="screenshots/a_config_vendedor.png" alt="Configuración de vendedor" width="250">
+</td>
+</tr>
 
-<img src="screenshots/a_productos.png" alt="Productos" width="250">
+</tbody>
+</table>
 
-<img src="screenshots/a_vendedor_revision.png" alt="Perfil de vendedor" width="250">
 
-<img src="screenshots/a_config_vendedor.png" alt="Configuración de vendedor" width="250">
+ 
+
+
+
+
 
  
 
